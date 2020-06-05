@@ -7,4 +7,6 @@ A repo for writing some notes about c++ fundamentals.
 [refer2](https://interview.huihut.com/#/?id=%e5%b0%81%e8%a3%85)
 
 CONTENT
+[1. 面向对象-- 继承 封装 多态](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/1.%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1--%20%E7%BB%A7%E6%89%BF%20%E5%B0%81%E8%A3%85%20%E5%A4%9A%E6%80%81.md)
+[1.1 多态](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/1.1%20%E5%A4%9A%E6%80%81.md)
 

@@ -9,6 +9,6 @@ A repo for some notes about c++ fundamentals.
 CONTENT  
 [1. 面向对象-- 继承 封装 多态](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/1.%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1--%20%E7%BB%A7%E6%89%BF%20%E5%B0%81%E8%A3%85%20%E5%A4%9A%E6%80%81.md)  
 [1.1 多态](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/1.1%20%E5%A4%9A%E6%80%81.md)  
-[2. const](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/2.%20Const.md)
-[3.堆、栈、静态存储区 ](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/3.%20%E5%A0%86%E3%80%81%E6%A0%88%E3%80%81%E9%9D%99%E6%80%81%E5%AD%98%E5%82%A8%E5%8C%BA.md)
-[4.static](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/4.%20static.md)
+[2. const](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/2.%20Const.md)  
+[3.堆、栈、静态存储区 ](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/3.%20%E5%A0%86%E3%80%81%E6%A0%88%E3%80%81%E9%9D%99%E6%80%81%E5%AD%98%E5%82%A8%E5%8C%BA.md)  
+[4.static](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/4.%20static.md)  

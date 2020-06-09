@@ -7,7 +7,7 @@ A repo for some notes about c++ fundamentals.
 [markdown refer](http://xianbai.me/learn-md/article/extension/code-blocks-and-highlighting.html)
 
 CONTENT  
-[0. 一些特别的c/c++中的函数]()
+[0. 一些特别的c/c++中的函数](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/0.%20%E4%B8%80%E4%BA%9B%E7%89%B9%E5%88%AB%E7%9A%84c.c%2B%2B%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0.md)
 [1. 面向对象-- 继承 封装 多态](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/1.%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1--%20%E7%BB%A7%E6%89%BF%20%E5%B0%81%E8%A3%85%20%E5%A4%9A%E6%80%81.md)  
 [1.1 多态](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/1.1%20%E5%A4%9A%E6%80%81.md)  
 [2. const,volatile](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/2.%20const%2Cvolatile.md)  

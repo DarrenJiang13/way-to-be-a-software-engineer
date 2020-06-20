@@ -23,4 +23,9 @@ CONTENT
 [5. struct，class和union](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/5.%20struct%EF%BC%8Cclass%EF%BC%8Cunion.md)  
 [6. explicit](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/6.%20explicit.md)  
 [7. using](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/7.%20using.md)  
-[8. ::范围解析符]
+[8. ::范围解析符](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/8.%20%EF%BC%9A%EF%BC%9A%E8%8C%83%E5%9B%B4%E8%A7%A3%E6%9E%90%E7%AC%A6.md)  
+[9. enum枚举类型](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/9.%20enum%E6%9E%9A%E4%B8%BE%E7%B1%BB%E5%9E%8B.md)  
+[10. decltype和auto](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/10.%20decltype%E5%92%8Cauto.md)   
+[11. 引用](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/11.%20%E5%BC%95%E7%94%A8.md)  
+[12. 成员初始化列表](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/12.%20%E6%88%90%E5%91%98%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%97%E8%A1%A8.md)  
+[13. initializer_list列表初始化](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/13.%20initializer_list%E5%88%97%E8%A1%A8%E5%88%9D%E5%A7%8B%E5%8C%96.md)  

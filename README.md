@@ -14,7 +14,7 @@ CONTENT
 [2. const,volatile](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/2.%20const%2Cvolatile.md)  
 [3. 堆、栈、静态存储区 ](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/3.%20%E5%A0%86%E3%80%81%E6%A0%88%E3%80%81%E9%9D%99%E6%80%81%E5%AD%98%E5%82%A8%E5%8C%BA.md)  
 [3.1 内存管理分配函数 ](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/3.1%20%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E5%88%86%E9%85%8D%E5%87%BD%E6%95%B0.md)  
-[3.2 static](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/3.2.%20static.md)
+[3.2 static](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/3.2.%20static.md)  
 [3.3 stl中的内存管理(暂空)](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/3.3%20stl%E4%B8%AD%E7%9A%84%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86.md)  
 [4. 类&对象 详解](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/4.%20%E7%B1%BB%26%E5%AF%B9%E8%B1%A1%20%E8%AF%A6%E8%A7%A3.md)  
 [4.1 友元类及友元函数](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/4.1%20%E5%8F%8B%E5%85%83%E7%B1%BB%E5%8F%8A%E5%8F%8B%E5%85%83%E5%87%BD%E6%95%B0.md)  

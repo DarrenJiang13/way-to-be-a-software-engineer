@@ -29,3 +29,4 @@ CONTENT
 [11. 引用](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/11.%20%E5%BC%95%E7%94%A8.md)  
 [12. 成员初始化列表](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/12.%20%E6%88%90%E5%91%98%E5%88%9D%E5%A7%8B%E5%8C%96%E5%88%97%E8%A1%A8.md)  
 [13. initializer_list列表初始化](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/13.%20initializer_list%E5%88%97%E8%A1%A8%E5%88%9D%E5%A7%8B%E5%8C%96.md)  
+[14. 智能指针](https://github.com/DarrenJiang13/CplusplusFundamental/blob/master/14.%20%E6%99%BA%E8%83%BD%E6%8C%87%E9%92%88.md)
